@@ -24,11 +24,4 @@
   <a href="https://www.linkedin.com/in/eduardo-maxwell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
- 
-##
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMaxwell&repo=face_detection&show_owner=true&theme=nord)](https://github.com/EduardoMaxwell/changeSiteColor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMaxwell&repo=changeSiteColor&show_owner=true&theme=nord)](https://github.com/EduardoMaxwell/changeSiteColor)
-
-
 
