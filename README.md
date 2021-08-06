@@ -1,4 +1,4 @@
-## Oi, sou o Eduardo Maxwell 👋
+## Bem vindo, entre e tome um café ☕
 
 - 🔭 Atualmente trabalho com Java EE e suas especificações
 - 🌱 Estudando Kotlin para desenvolmento mobile
