@@ -1,7 +1,7 @@
 ## Bem vindo(a), entre e tome um café ☕
 
 - 🔭 Atualmente trabalho com Java EE e suas especificações
-- 🌱 Estudando Kotlin para desenvolmento mobile
+- 🌱 Estudando Kotlin para desenvolvimento Mobile
 
  <div>
   <a href="https://github.com/EduardoMaxwell">
