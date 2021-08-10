@@ -1,14 +1,14 @@
 ## Bem vindo(a), entre e tome um café ☕
 
 - 🔭 Atualmente trabalho com Java EE e suas especificações
-- 🌱 Estudando <img align="center" heigth="18" width="18" alt="Eduardo-KOTLIN" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg'>
 
  <div>
   <a href="https://github.com/EduardoMaxwell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMaxwell&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMaxwell&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
+
+ #### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-JAVA" src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
   <img align="center" alt="Eduardo-POSTGRESQL" src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
@@ -19,6 +19,10 @@
   <img align="center" alt="Eduardo-PYTHON" src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 </div>
   
+ #### Learning
+ <img align="center" alt="Eduardo-KOTLIN" src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white'>
+ <img align="center" alt="Eduardo-FLUTTER" src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
+ 
 ##
  
 <div> 
