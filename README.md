@@ -1,7 +1,7 @@
 ## Bem vindo(a), entre e tome um café ☕
 
 - 🔭 Atualmente trabalho com Java EE e suas especificações
-- 🌱 Estudando <img align="center" heigth="20" width="20" alt="Eduardo-KOTLIN" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg'> para desenvolvimento Mobile
+- 🌱 Estudando <img align="center" heigth="18" width="18" alt="Eduardo-KOTLIN" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg'>
 
  <div>
   <a href="https://github.com/EduardoMaxwell">
