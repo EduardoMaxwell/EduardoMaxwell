@@ -1,6 +1,6 @@
 ## Bem vindo(a), entre e tome um café ☕
 
-- 🔭 Atualmente trabalho com Java EE e suas especificações
+- 🔭 Atualmente trabalho com desenvolvimento Android Nativo usando Kotlin e Java.
 
  <div>
   <a href="https://github.com/EduardoMaxwell">
